@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html>
-
+<!-- Créer par Axel André -->
 <head>
      <meta charset="utf-8"/>
      <title></title>
-     <link rel="stylesheet" type="text/css" href="css/style.css">
+     <link rel="stylesheet" type="text/css" href="css/style.css"/>
 </head>
 
 <body>
+
+
      <?php
      // on se connecte à MySQL
      function ConnectionBase($database,$addressDB,$id,$pass){
