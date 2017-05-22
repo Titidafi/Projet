@@ -38,7 +38,7 @@
           // on ferme la connexion à mysql
           mysqli_close($db);
      }
-     ConnectionBase('titidafibf09','titidafibf09.mysql.db','titidafibf09','Pred160468');
+     ConnectionBase('titidafibf09','titidafibf09.mysql.db','titidafibf09','*');
      ?>
 
 </body>
